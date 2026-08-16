@@ -1,12 +1,12 @@
-# Fresh Start
+# Community Builder Connect
 
-tart from a blank / empty project
+Connect this new blank project to your GitHub repository for Community Builder
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/57d44e80-e852-4e00-b3c8-843f7efc9932).
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/6a2ee940-043c-49d5-be0c-0dcb10922725).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
